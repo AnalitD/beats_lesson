@@ -1,0 +1,9 @@
+.reviews-section {
+  position: relative; }
+  .reviews-section:before {
+    content: url("../img/decor/Ellipse.svg");
+    position: absolute;
+    bottom: -25px;
+    left: 152px; }
+
+/*# sourceMappingURL=reviews-section.css.map */
